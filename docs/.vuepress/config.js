@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Newming',
   description: '这是钮旭明的测试项目啊哈哈',
+  base: '/vuepress/',
   configureWebpack: {
     resolve: {
       alias: {
