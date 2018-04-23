@@ -1,0 +1,19 @@
+{
+  "name": "vue-press-demo",
+  "version": "1.0.0",
+  "description": "test vue press",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build docs",
+    "start": "vuepress dev docs",
+    "eject": "vuepress eject docs"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "newming",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.7.1"
+  }
+}
