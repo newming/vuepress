@@ -1,4 +1,4 @@
-# 玩转 vurPress
+# vuepress demo
 
 之前一直用 hexo 搭建静态网站，前几天发现了 [vuepress](https://vuepress.vuejs.org/)，遂动手实操，非常不错。
 
